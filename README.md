@@ -1,5 +1,7 @@
 # Proyecto React - Entidad Financiera
 
+[Front financiera con REACT + VITE](https://front-financiera.netlify.app/)
+
 Este proyecto es una aplicación de gestión de clientes y productos para una entidad financiera. Fue desarrollado utilizando React con Vite y Material-UI para la interfaz de usuario.
 
 ## Descripción
@@ -96,9 +98,3 @@ La aplicación interactúa con las siguientes rutas de la API:
   - `POST /productos` - Crear un nuevo producto
   - `PUT /productos/:id` - Actualizar un producto existente
   - `DELETE /productos/:id` - Eliminar un producto
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-
